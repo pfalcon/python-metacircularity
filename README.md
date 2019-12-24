@@ -9,6 +9,14 @@ of the Python language itself. This ranges from meta-circular evaluators
 the simple, reusable tools which can be combined to implement arbitrary
 complex and advanced processing.
 
+Tokenizers
+----------
+
+Also known as lexical analyzers.
+
+* Python standard library includes [tokenize](https://docs.python.org/3/library/tokenize.html)
+  module.
+
 ---
 This list is compiled and maintained by Paul Sokolovsky, and released under
 [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
