@@ -17,6 +17,21 @@ Also known as lexical analyzers.
 * Python standard library includes [tokenize](https://docs.python.org/3/library/tokenize.html)
   module.
 
+Parsers
+-------
+
+Parsing to AST (Abstract Syntax Tree) and CST (Concrete Syntax Tree).
+
+* Python stdlib allows to parse Python source (as string) to AST using
+  `ast.parse()`.
+
+Compilers
+---------
+
+* Python has a builtin function to compile Python source or AST to bytecode:
+  `compile()`.
+
+
 ---
 This list is compiled and maintained by Paul Sokolovsky, and released under
 [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
